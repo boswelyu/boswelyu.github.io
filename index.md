@@ -1,4 +1,4 @@
-## Welcome to Teal Code Home
+## 欢迎来到TealCode的主页
 
 You can use the [editor on GitHub](https://github.com/boswelyu/boswelyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
